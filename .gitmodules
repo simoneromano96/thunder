@@ -1,0 +1,6 @@
+[submodule "thunder-mobile-app"]
+	path = thunder-mobile-app
+	url = https://github.com/simoneromano96/thunder-mobile-app.git
+[submodule "thunder-server"]
+	path = thunder-server
+	url = https://github.com/simoneromano96/thunder-server.git
