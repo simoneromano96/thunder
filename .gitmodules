@@ -4,3 +4,6 @@
 [submodule "thunder-server"]
 	path = thunder-server
 	url = https://github.com/simoneromano96/thunder-server.git
+[submodule "thunder-dashboard"]
+	path = thunder-dashboard
+	url = https://github.com/simoneromano96/thunder-dashboard.git
