@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "thunder-dashboard"
+		},
+		{
+			"path": "thunder-mobile-app"
+		},
+		{
+			"path": "thunder-server"
+		}
+	]
+}
